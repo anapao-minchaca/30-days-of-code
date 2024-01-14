@@ -4,3 +4,4 @@
 * Day 3. [CSS Variables](https://anapao-minchaca.github.io/30-days-of-code/Day3_CSS_Variables/index-MYSOLUTION.html)
 * Day 4. [Array Cardio Day 1](https://anapao-minchaca.github.io/30-days-of-code/Day4_Array_Cardio1/index-MYSOLUTION.html)
 * Day 5. [Flex Panel Gallery](https://anapao-minchaca.github.io/30-days-of-code/Day5_Flex_Panel_Gallery/index-MYSOLUTION.html)
+* Day 6. [Type Ahead](https://anapao-minchaca.github.io/30-days-of-code/Day6_TypeAhead/index-MYSOLUTION.html)
