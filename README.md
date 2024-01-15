@@ -5,3 +5,5 @@
 * Day 4. [Array Cardio Day 1](https://anapao-minchaca.github.io/30-days-of-code/Day4_Array_Cardio1/index-MYSOLUTION.html)
 * Day 5. [Flex Panel Gallery](https://anapao-minchaca.github.io/30-days-of-code/Day5_Flex_Panel_Gallery/index-MYSOLUTION.html)
 * Day 6. [Type Ahead](https://anapao-minchaca.github.io/30-days-of-code/Day6_TypeAhead/index-MYSOLUTION.html)
+* Day 7. [Array Cardio Day 2](https://anapao-minchaca.github.io/30-days-of-code/Day7_Array_Cardio2/index-MYSOLUTION.html)
+* Day 8. [Fun with HTML5 Canvas](https://anapao-minchaca.github.io/30-days-of-code/Day8_Fun_HTML5_Canvas/index-MYSOLUTION.html)
