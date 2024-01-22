@@ -7,3 +7,6 @@
 * Day 6. [Type Ahead](https://anapao-minchaca.github.io/30-days-of-code/Day6_TypeAhead/index-MYSOLUTION.html)
 * Day 7. [Array Cardio Day 2](https://anapao-minchaca.github.io/30-days-of-code/Day7_Array_Cardio2/index-MYSOLUTION.html)
 * Day 8. [Fun with HTML5 Canvas](https://anapao-minchaca.github.io/30-days-of-code/Day8_Fun_HTML5_Canvas/index-MYSOLUTION.html)
+* Day 9. [Dev Tools](https://anapao-minchaca.github.io/30-days-of-code/Day9_DevTools/index-MYSOLUTION.html)
+* Day 10. [Hold Shift Checkboxes](https://anapao-minchaca.github.io/30-days-of-code/Day10_HoldShift/index-MYSOLUTION.html)
+* Day 11. [HTML Video Player](https://anapao-minchaca.github.io/30-days-of-code/Day11_CustomVideoPlayer/index.html)
